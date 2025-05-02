@@ -1,0 +1,1 @@
+Since evry player move triggers a new room entrance and game may end suddenly, I recommend that you test my program directly interacting from keyboard.
