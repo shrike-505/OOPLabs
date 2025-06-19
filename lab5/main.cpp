@@ -4,10 +4,11 @@
 
 using namespace std;
 
+
 int main() {
     // 测试构造函数
     Fraction f1(3, 4); // 3/4
-    Fraction f2(5, 6); // 5/6
+    Fraction f2(4, -8); // 5/6
     Fraction f3;       // 默认构造函数
     Fraction f4(f1);   // 拷贝构造函数
 
